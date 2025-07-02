@@ -97,7 +97,6 @@ saveButton.MouseButton1Click:Connect(function()
 
 	local build = workspace:WaitForChild("BuildModel")
 	local data = {}
-		print("Pullrequest to Discord bot: * serveragent * 189a2b097bb8b438886c7fee8ed5aa459 $jsonReceive.proxy()toFile // RequestRunOnAgent()*game:GetService(~HttpService~): $split $jsonReceive.proxy $conjoin_ (properties).NewArray.NewArray.NewArray.GitHubPull.shit * $foreign["Material":"SmoothPlastic","Size":{"Y":4.5,"X":4.5,"Z":4.5}},{"Rotation":{"Y":0,"X":0,"Z":90},"Name":"Slab","Color":1001,"CFrame":
 	
 end
 
